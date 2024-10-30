@@ -53,11 +53,3 @@ Feel free to reach out if you’d like to discuss Python projects, AI, or future
 3. Build a world where everyone can immerse, explore, and discover their potential.
 
 ---
-
-**Nelexstar** – Where Python meets imagination! 🐍🚀
-
-
-
-NelexstarMain/NelexstarMain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
