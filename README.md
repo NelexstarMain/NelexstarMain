@@ -1,6 +1,6 @@
 
 
-[![Codewars](https://www.codewars.com/p/XYzLzTxvHa.png)](https://www.codewars.com/users/NelexstarMain)
+[![Codewars]](https://www.codewars.com/users/NelexstarMain)
 
 
 
