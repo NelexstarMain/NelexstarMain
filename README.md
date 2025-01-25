@@ -1,10 +1,4 @@
 
-
-[![Codewars]](https://www.codewars.com/users/NelexstarMain)
-
-
-
-
 # 🌟 Nelexstar 🌟
 
 Hello! I'm **Nelexstar** – I am 15 yo Python enthusiast, digital explorer, and lover of futuristic visions where technology meets creativity.
